@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GDDA</title>
+    <style>
+        body{
+            background:black;
+            color:#00ff00;
+            font-family:monospace;
+        }
+    </style>
+</head>
+<body>
+
+<h1>GDDA anomaly files</h1>
+
+<p>Sistema de Arquivos Internos</p>
+
+<hr>
+
+<a href="smile_dog.html">Smile Dog</a>
+
+</body>
+</html>
